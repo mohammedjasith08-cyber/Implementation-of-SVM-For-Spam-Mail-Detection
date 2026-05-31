@@ -52,9 +52,13 @@ print(cl)
 ```
 
 ## Output:
+## DATA
 <img width="1093" height="671" alt="image" src="https://github.com/user-attachments/assets/bea442cc-2f58-4c72-a4ff-8bc87f272d51" />
+## CONFUSION MATRIX
 <img width="182" height="91" alt="image" src="https://github.com/user-attachments/assets/e7d8c35b-912b-425b-88d2-035323b19b49" />
+## ACCURACY
 <img width="312" height="71" alt="image" src="https://github.com/user-attachments/assets/4c3dc195-6c8c-45ed-ba0b-1c45f23beafd" />
+## CLASSIFICATION REPORT
 <img width="832" height="322" alt="image" src="https://github.com/user-attachments/assets/216c2e4e-7d53-445c-ac95-a10e76116c84" />
 
 
